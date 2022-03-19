@@ -1,9 +1,13 @@
 ## 内容
 
 在动物世界中，有各种各样的动物。
+
 这一天，它们准备进行一次吃西瓜大赛，来证明各自的食力。
+
 计划仓促的缘故，西瓜的个数十分有限，幸好旅游的一组师生经过，把西瓜切成了数块。
+
 比赛有最长时间，参与者可以提前退出，最终成绩将由食量和速度共同决定。
+
 选手准备的都不太充分？最终的冠军，又会是谁呢？
 
 ## 文件结构
@@ -74,3 +78,8 @@ Run `java --enable-preview -cp bin AnimalWorld` in this directory.
     - 加入更多种类的食物，并定义对他们的操作！（可能也需要切开？）
     - `startEating`只适合那些**随机行动**的动物
     - `finishEating`在总结时假设所有食物都是西瓜，这不会出错，但可能令人啼笑皆非。你可能需要修改措辞！
+
+## 项目仓库
+
+- [AnimalWorld-Github](https://github.com/panhongtao07/AnimalWorld)
+- [Git仓库](https://github.com/panhongtao07/AnimalWorld.git)
